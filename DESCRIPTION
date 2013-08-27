@@ -1,0 +1,7 @@
+Package: plibr
+Title: Personal R library.
+Description: 
+Version: 0.1
+Author: Peter Schulam <pschulam@gmail.com>
+Maintainer: Peter Schulam <pschulam@gmail.com>
+License: MIT
